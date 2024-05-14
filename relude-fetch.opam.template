@@ -1,4 +1,4 @@
 pin-depends: [
-  [ "relude.dev" "git+https://github.com/reazen/relude.git#v2" ]
-  [ "bastet.dev" "git+https://github.com/jakubrpawlowski/bastet.git#melange" ]
+  [ "relude.dev" "git+https://github.com/qwickshifts/relude.git#melange3" ]
+  [ "bastet.dev" "git+https://github.com/qwickshifts/bastet.git#melange3" ]
 ]
