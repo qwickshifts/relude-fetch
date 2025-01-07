@@ -26,9 +26,7 @@
  (depends
   dot-merlin-reader
   (melange
-   (and
-    (>= 3.0.0)
-    (< 4.0.0)))
+    (>= 3.0.0))
   (ocaml
    (>= 5.1.0))
   (reason
